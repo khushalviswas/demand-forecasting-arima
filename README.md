@@ -13,6 +13,17 @@ To predict future product demand using historical structured dataset trends for 
 - ARIMA-based forecasting
 - Model evaluation and prediction interpretation
 
+## Model Used
+
+ARIMA (AutoRegressive Integrated Moving Average) was used for forecasting time-series demand patterns based on historical observations.
+
+## Libraries
+
+- pandas
+- numpy
+- matplotlib
+- statsmodels
+
 ## Tools Used
 
 - Python
